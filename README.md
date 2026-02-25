@@ -29,7 +29,7 @@
 <li>HTML (básico)</li>
 <li>CSS (básico)</li>
 <li>Noções de modelagem</li>
-<li>SQL (básico)</li>
+<li>MySQL (básico)</li>
 <li>Tipos de redes e meios de transmissão</li>
 <li>Infraestrutura</li>
 <li>Hardware de rede</li>
